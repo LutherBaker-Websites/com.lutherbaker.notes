@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="home">
+	<p class="byline-top"><strong>NOT</strong> an official blog.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Ideas are my own.<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is my scratchpad.</p>
+	<h1 class="page-heading">Posts</h1>
+
+	<table class="post-list">
+		{% for post in site.posts %}
+		<tr>
+			<td><span class="post-meta" style="padding-right: 2em">{{ post.date | date: "%b %-d" }}</td>
+			<td><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><span class="post-meta" style="padding-left: 1em"><span class="post-family"><a href="/{{ post.categories[0] }}">#{{ post.categories[0] }}</a></span></span></td>
+		</tr>
+		{% endfor %}
+	</table>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
