@@ -3,7 +3,7 @@ layout: post
 title: Software is Not a Game of Perfect
 ---
 
-I don't fully understand why developers push back so hard when someone requests they do something in less time.
+I don't fully understand why developers push back so hard when someone requests they do something in less time. To give some context here, I'm talking about writing iOS applications which, I think, embody a potentially huge spectrum of _done._
 
 Technically, the dev isn't being asked to cut corners &hellip; and who's to say it's not a subliminal request for the developer to _lean_ down.
 
