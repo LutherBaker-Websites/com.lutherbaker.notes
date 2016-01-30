@@ -2,6 +2,7 @@
 layout: page
 title: Git
 hidden: true
+category: effective
 ---
 
 # Some basics

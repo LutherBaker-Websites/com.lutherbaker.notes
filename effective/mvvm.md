@@ -2,6 +2,7 @@
 layout: page
 title: MVVM
 hidden: true
+category: effective
 ---
 
 # Basics

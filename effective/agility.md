@@ -2,6 +2,7 @@
 layout: page
 title: Agility
 hidden: true
+category: effective
 ---
 
 # Manifestos

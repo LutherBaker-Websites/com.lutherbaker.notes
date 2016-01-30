@@ -2,6 +2,7 @@
 layout: page
 title: iOS
 hidden: true
+category: effective
 ---
 
 # Development
