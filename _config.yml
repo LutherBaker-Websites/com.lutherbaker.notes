@@ -10,7 +10,7 @@ title: Luther Baker
 description: > # this means to ignore newlines until "baseurl:"
   Reflection ...
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.lutherbaker.com" # the base hostname & protocol for your site
+url: "http://stream.lutherbaker.com" # the base hostname & protocol for your site
 twitter_username: LutherBaker
 github_username:  LutherBaker
 
