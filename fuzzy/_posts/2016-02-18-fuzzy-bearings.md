@@ -3,11 +3,6 @@ layout: post
 title: Updated Fuzzy Bearings Website
 ---
 
-## Fuzzy Bearings
+Updated **Fuzzy Bearings** website and blogs to simple Jekyll instance. Will start to post my product thoughts there in an effort to be more transparent.
 
-- updated the website and blog
-- will start to post my product thoughts here in an effort to be more transparent
-
-## Effective Programming
-
-- didn't address this family of sites - but will
+Haven't updated **Effective Programming** but certainly plan to. Hoping to recreate that entire family of sites.
